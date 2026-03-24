@@ -1,0 +1,9 @@
+CourseID,CourseCode,Title,CreditHours,InstructorID,Semester,Department,Description,IsActive
+COURSE001,CS101,Introduction to Programming,3,INST001,FALL,COMPUTER_SCIENCE,Basic programming concepts using Java,true
+COURSE002,CS102,Data Structures,3,INST001,FALL,COMPUTER_SCIENCE,Arrays lists stacks queues and trees,true
+COURSE003,MATH101,Calculus I,4,INST002,FALL,MATHEMATICS,Differential and integral calculus,true
+COURSE004,ENG101,English Composition,3,INST003,FALL,ENGLISH,Academic writing and research skills,true
+COURSE005,PHYS101,Physics I,4,INST004,FALL,PHYSICS,Mechanics and thermodynamics,true
+COURSE006,CS201,Object-Oriented Programming,3,INST001,SPRING,COMPUTER_SCIENCE,Advanced OOP concepts and design patterns,true
+COURSE007,MATH201,Linear Algebra,3,INST002,SPRING,MATHEMATICS,Vector spaces and linear transformations,true
+COURSE008,BUS101,Introduction to Business,3,INST005,FALL,BUSINESS,Fundamentals of business operations,true

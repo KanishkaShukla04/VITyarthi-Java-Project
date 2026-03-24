@@ -1,0 +1,35 @@
+# ---- IntelliJ IDEA ----
+.idea/
+*.iml
+*.ipr
+*.iws
+shelf/
+workspace.xml
+
+# ---- Java ----
+*.class
+*.log
+
+# ---- Build directories ----
+bin/
+out/
+build/
+target/
+
+# ---- Backup & Temp ----
+backups/
+*.tmp
+*.bak
+*.swp
+
+# ---- Package files (generated) ----
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# ---- OS-specific ----
+.DS_Store
+Thumbs.db

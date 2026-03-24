@@ -1,0 +1,6 @@
+ID,RegistrationNumber,FullName,Email,DateOfBirth,PhoneNumber,EnrollmentDate,IsActive,CurrentGPA
+STU001,REG2023001,John Doe,john.doe@university.edu,1995-05-15,555-0123,2023-09-01,true,3.75
+STU002,REG2023002,Jane Smith,jane.smith@university.edu,1996-03-22,555-0124,2023-09-01,true,3.92
+STU003,REG2023003,Mike Johnson,mike.johnson@university.edu,1994-11-08,555-0125,2023-09-01,true,3.45
+STU004,REG2023004,Sarah Wilson,sarah.wilson@university.edu,1995-07-30,555-0126,2023-09-01,true,3.88
+STU005,REG2023005,David Brown,david.brown@university.edu,1996-01-12,555-0127,2023-09-01,true,3.67
